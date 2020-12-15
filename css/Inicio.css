@@ -1,0 +1,7 @@
+body{
+    background: url(principal.jpg);
+    background-size: 100%;
+}
+#menus{
+    position: relative;
+}
